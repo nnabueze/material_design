@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     tools:context="com.example.eze.materialtest.MainActivity">
 
+    <include layout="@layout/app_bar"></include>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
