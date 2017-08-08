@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Materialtest</string>
+    <string name="next">Navigation</string>
+    <string name="title_activity_sub">SubActivity</string>
 </resources>
